@@ -61,7 +61,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4791
+            "stars": 4793
           }
         },
         {
@@ -79,7 +79,7 @@
             "last_commit": "2023-01-25T15:22:30Z",
             "owner": "kitspace",
             "repo": "kicad_footprints",
-            "stars": 352
+            "stars": 353
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2017-05-25T21:45:38Z",
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 382
+            "stars": 381
           }
         },
         {
@@ -288,10 +288,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:29:56.222Z",
+    "last_updated": "2026-02-08T04:34:55.517Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Electronics with stars"
   }
 }
