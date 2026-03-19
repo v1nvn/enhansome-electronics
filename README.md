@@ -71,7 +71,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Documentation
 
-* [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) ⭐ 513 | 🐛 3 | 📅 2026-02-08 - Circuit Drawing Symbols for Inkscape
+* [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) ⭐ 516 | 🐛 3 | 📅 2026-02-08 - Circuit Drawing Symbols for Inkscape
 * [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
 * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 * [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
@@ -128,7 +128,7 @@ This list is for websites, services, software, tools and more: everything that y
 * [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
 * [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 * [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
-* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,272 | 🐛 163 | 🌐 C | 📅 2026-03-15 - A free and open source EDA tool with the focus on shortcut operation.
+* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,273 | 🐛 163 | 🌐 C | 📅 2026-03-15 - A free and open source EDA tool with the focus on shortcut operation.
 * [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
 
 ## Paid EDA Packages
@@ -140,7 +140,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### KiCad
 
-* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,824 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,826 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 * [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,330 | 🐛 43 | 🌐 Python | 📅 2026-03-14 - A html BOM generation tool for manual pick and place.
 * [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 813 | 🐛 1 | 📅 2025-11-20
 * [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 693 | 🐛 23 | 🌐 Python | 📅 2026-03-16 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
