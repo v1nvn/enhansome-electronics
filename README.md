@@ -71,7 +71,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Documentation
 
-* [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) ⭐ 525 | 🐛 3 | 📅 2026-02-08 - Circuit Drawing Symbols for Inkscape
+* [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) ⭐ 526 | 🐛 3 | 📅 2026-02-08 - Circuit Drawing Symbols for Inkscape
 * [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
 * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 * [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
@@ -141,9 +141,9 @@ This list is for websites, services, software, tools and more: everything that y
 ### KiCad
 
 * [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,835 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,349 | 🐛 39 | 🌐 Python | 📅 2026-03-31 - A html BOM generation tool for manual pick and place.
+* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,348 | 🐛 39 | 🌐 Python | 📅 2026-03-31 - A html BOM generation tool for manual pick and place.
 * [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 814 | 🐛 1 | 📅 2025-11-20
-* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 701 | 🐛 25 | 🌐 Python | 📅 2026-03-31 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 703 | 🐛 25 | 🌐 Python | 📅 2026-03-31 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 * [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 358 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
 * [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 * [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
@@ -272,8 +272,8 @@ This list is for websites, services, software, tools and more: everything that y
 ## Other Lists
 
 * [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 954 | 🐛 7 | 📅 2024-01-04 - Awesome list of embedded programming resources.
-* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 772 | 🐛 1 | 📅 2026-03-10 - Helpful items for making and learning about open source hardware projects.
-* [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 697 | 🐛 0 | 📅 2024-12-22 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 773 | 🐛 2 | 📅 2026-03-10 - Helpful items for making and learning about open source hardware projects.
+* [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 698 | 🐛 0 | 📅 2024-12-22 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
 * [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 422 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
 * [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) ⚠️ Archived - A list of cheap electronics from China, that you can use in your projects.
 * [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) ⭐ 387 | 🐛 0 | 📅 2017-05-25 - Awesome list of FPGA resources.
