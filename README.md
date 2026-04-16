@@ -140,10 +140,10 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### KiCad
 
-* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,842 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,353 | 🐛 38 | 🌐 Python | 📅 2026-03-31 - A html BOM generation tool for manual pick and place.
+* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,844 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,352 | 🐛 38 | 🌐 Python | 📅 2026-03-31 - A html BOM generation tool for manual pick and place.
 * [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 816 | 🐛 2 | 📅 2025-11-20
-* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 706 | 🐛 25 | 🌐 Python | 📅 2026-04-14 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 706 | 🐛 25 | 🌐 Python | 📅 2026-04-15 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 * [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 359 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
 * [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 * [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
