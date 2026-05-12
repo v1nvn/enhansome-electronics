@@ -61,7 +61,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4877
+            "stars": 4879
           }
         },
         {
@@ -92,7 +92,7 @@
             "last_commit": "2026-04-23T13:13:10Z",
             "owner": "openscopeproject",
             "repo": "InteractiveHtmlBom",
-            "stars": 4384
+            "stars": 4385
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2020-07-20T15:03:10Z",
             "owner": "adafruit",
             "repo": "Adafruit-Eagle-Library",
-            "stars": 1035
+            "stars": 1034
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2024-08-23T17:26:32Z",
             "owner": "sparkfun",
             "repo": "SparkFun-Eagle-Libraries",
-            "stars": 1792
+            "stars": 1793
           }
         }
       ],
@@ -254,7 +254,7 @@
             "last_commit": "2025-06-20T13:22:17Z",
             "owner": "TM90",
             "repo": "awesome-hwd-tools",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T06:02:37.992Z",
+    "last_updated": "2026-05-12T05:40:40.406Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
