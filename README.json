@@ -61,7 +61,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4881
+            "stars": 4883
           }
         },
         {
@@ -79,7 +79,7 @@
             "last_commit": "2023-01-25T15:22:30Z",
             "owner": "kitspace",
             "repo": "kicad_footprints",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -92,7 +92,7 @@
             "last_commit": "2026-04-23T13:13:10Z",
             "owner": "openscopeproject",
             "repo": "InteractiveHtmlBom",
-            "stars": 4387
+            "stars": 4388
           }
         },
         {
@@ -102,10 +102,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T13:23:15Z",
+            "last_commit": "2026-05-13T13:31:28Z",
             "owner": "INTI-CMNB",
             "repo": "KiBot",
-            "stars": 712
+            "stars": 713
           }
         }
       ],
@@ -223,7 +223,7 @@
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 973
+            "stars": 974
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-04-08T18:37:21Z",
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 351
+            "stars": 352
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:51:30.214Z",
+    "last_updated": "2026-05-14T05:50:42.399Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
