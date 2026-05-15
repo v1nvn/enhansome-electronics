@@ -33,7 +33,7 @@
             "last_commit": "2026-05-10T12:57:47Z",
             "owner": "devbisme",
             "repo": "kicad-3rd-party-tools",
-            "stars": 818
+            "stars": 819
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4883
+            "stars": 4884
           }
         },
         {
@@ -79,7 +79,7 @@
             "last_commit": "2023-01-25T15:22:30Z",
             "owner": "kitspace",
             "repo": "kicad_footprints",
-            "stars": 360
+            "stars": 361
           }
         },
         {
@@ -92,7 +92,7 @@
             "last_commit": "2026-04-23T13:13:10Z",
             "owner": "openscopeproject",
             "repo": "InteractiveHtmlBom",
-            "stars": 4388
+            "stars": 4389
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2024-12-22T18:40:08Z",
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-04-08T18:37:21Z",
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 352
+            "stars": 353
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-04-20T15:43:21Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 813
+            "stars": 814
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:50:42.399Z",
+    "last_updated": "2026-05-15T05:57:12.380Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
