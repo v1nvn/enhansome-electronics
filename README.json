@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-10T12:57:47Z",
+            "last_commit": "2026-05-15T12:31:57Z",
             "owner": "devbisme",
             "repo": "kicad-3rd-party-tools",
             "stars": 819
@@ -61,7 +61,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4884
+            "stars": 4885
           }
         },
         {
@@ -102,7 +102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T13:31:28Z",
+            "last_commit": "2026-05-15T13:07:46Z",
             "owner": "INTI-CMNB",
             "repo": "KiBot",
             "stars": 713
@@ -241,7 +241,7 @@
             "last_commit": "2026-04-08T18:37:21Z",
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-04-20T15:43:21Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 814
+            "stars": 815
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:57:12.380Z",
+    "last_updated": "2026-05-16T05:29:44.115Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
