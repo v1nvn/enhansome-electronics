@@ -33,7 +33,7 @@
             "last_commit": "2026-05-15T12:31:57Z",
             "owner": "devbisme",
             "repo": "kicad-3rd-party-tools",
-            "stars": 819
+            "stars": 820
           }
         },
         {
@@ -92,7 +92,7 @@
             "last_commit": "2026-04-23T13:13:10Z",
             "owner": "openscopeproject",
             "repo": "InteractiveHtmlBom",
-            "stars": 4390
+            "stars": 4391
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-15T13:07:46Z",
             "owner": "INTI-CMNB",
             "repo": "KiBot",
-            "stars": 712
+            "stars": 713
           }
         }
       ],
@@ -129,7 +129,7 @@
             "last_commit": "2020-07-20T15:03:10Z",
             "owner": "adafruit",
             "repo": "Adafruit-Eagle-Library",
-            "stars": 1034
+            "stars": 1035
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:17:21.123Z",
+    "last_updated": "2026-05-19T06:10:56.523Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
