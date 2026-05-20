@@ -92,7 +92,7 @@
             "last_commit": "2026-04-23T13:13:10Z",
             "owner": "openscopeproject",
             "repo": "InteractiveHtmlBom",
-            "stars": 4391
+            "stars": 4392
           }
         },
         {
@@ -102,7 +102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-15T13:07:46Z",
+            "last_commit": "2026-05-19T15:10:00Z",
             "owner": "INTI-CMNB",
             "repo": "KiBot",
             "stars": 713
@@ -142,7 +142,7 @@
             "last_commit": "2024-08-23T17:26:32Z",
             "owner": "sparkfun",
             "repo": "SparkFun-Eagle-Libraries",
-            "stars": 1793
+            "stars": 1794
           }
         }
       ],
@@ -223,7 +223,7 @@
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 976
+            "stars": 977
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-04-20T15:43:21Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 816
+            "stars": 817
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:10:56.523Z",
+    "last_updated": "2026-05-20T06:11:22.760Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
