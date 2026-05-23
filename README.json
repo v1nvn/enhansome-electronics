@@ -102,7 +102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-21T16:56:04Z",
+            "last_commit": "2026-05-22T16:53:33Z",
             "owner": "INTI-CMNB",
             "repo": "KiBot",
             "stars": 713
@@ -280,7 +280,7 @@
             "last_commit": "2026-03-10T09:04:56Z",
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 317
+            "stars": 318
           }
         }
       ],
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-22T06:10:56.004Z",
+    "last_updated": "2026-05-23T05:41:48.090Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
