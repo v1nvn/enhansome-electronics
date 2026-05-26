@@ -271,8 +271,8 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-* [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 979 | 🐛 7 | 📅 2024-01-04 - Awesome list of embedded programming resources.
-* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 821 | 🐛 4 | 📅 2026-04-20 - Helpful items for making and learning about open source hardware projects.
+* [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 978 | 🐛 7 | 📅 2024-01-04 - Awesome list of embedded programming resources.
+* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 822 | 🐛 4 | 📅 2026-04-20 - Helpful items for making and learning about open source hardware projects.
 * [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 718 | 🐛 1 | 📅 2024-12-22 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
 * [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 428 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
 * [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) ⭐ 390 | 🐛 0 | 📅 2017-05-25 - Awesome list of FPGA resources.
