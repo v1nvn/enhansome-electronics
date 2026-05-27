@@ -71,7 +71,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Documentation
 
-* [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) ⭐ 535 | 🐛 3 | 📅 2026-02-08 - Circuit Drawing Symbols for Inkscape
+* [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) ⭐ 536 | 🐛 3 | 📅 2026-02-08 - Circuit Drawing Symbols for Inkscape
 * [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
 * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 * [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
@@ -94,7 +94,7 @@ This list is for websites, services, software, tools and more: everything that y
 * [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
 * [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 * [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
-* [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS) ⭐ 81 | 🐛 9 | 🌐 Java | 📅 2026-02-23. Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+* [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS) ⭐ 80 | 🐛 9 | 🌐 Java | 📅 2026-02-23. Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 * [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
 
 ### Verilog HDL Simulators
@@ -140,10 +140,10 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### KiCad
 
-* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,891 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,396 | 🐛 38 | 🌐 Python | 📅 2026-05-24 - A html BOM generation tool for manual pick and place.
-* [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 821 | 🐛 1 | 📅 2026-05-15
-* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 714 | 🐛 26 | 🌐 Python | 📅 2026-05-22 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,892 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,399 | 🐛 38 | 🌐 Python | 📅 2026-05-24 - A html BOM generation tool for manual pick and place.
+* [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 822 | 🐛 1 | 📅 2026-05-15
+* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 714 | 🐛 26 | 🌐 Python | 📅 2026-05-26 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 * [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 361 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
 * [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 * [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
@@ -278,7 +278,7 @@ This list is for websites, services, software, tools and more: everything that y
 * [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) ⭐ 390 | 🐛 0 | 📅 2017-05-25 - Awesome list of FPGA resources.
 * [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) ⚠️ Archived - A list of cheap electronics from China, that you can use in your projects.
 * [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 354 | 🐛 0 | 📅 2026-04-08 - A curated list of awesome open-source FPGA boards.
-* [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 319 | 🐛 0 | 📅 2026-03-10 - Open source software list specialized on power electronics.
+* [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 321 | 🐛 0 | 📅 2026-03-10 - Open source software list specialized on power electronics.
 * [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 88 | 🐛 0 | 📅 2025-06-20 - A curated list of hardware design tools with a focus on chip design.
 * [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
 * [TCAD Central](https://tcadcentral.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
