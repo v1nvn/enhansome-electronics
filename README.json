@@ -61,7 +61,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4895
+            "stars": 4894
           }
         },
         {
@@ -92,7 +92,7 @@
             "last_commit": "2026-05-24T05:11:59Z",
             "owner": "openscopeproject",
             "repo": "InteractiveHtmlBom",
-            "stars": 4409
+            "stars": 4412
           }
         },
         {
@@ -102,7 +102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T16:36:25Z",
+            "last_commit": "2026-06-02T16:55:48Z",
             "owner": "INTI-CMNB",
             "repo": "KiBot",
             "stars": 716
@@ -197,7 +197,7 @@
             "last_commit": "2017-05-25T21:45:38Z",
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 390
+            "stars": 391
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-05-27T12:17:02Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 829
+            "stars": 830
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-02T06:44:26.470Z",
+    "last_updated": "2026-06-03T06:55:40.725Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
