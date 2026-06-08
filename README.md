@@ -152,7 +152,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Eagle
 
-* [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) ⭐ 1,795 | 🐛 10 | 📅 2024-08-23
+* [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) ⭐ 1,794 | 🐛 10 | 📅 2024-08-23
 * [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library) ⭐ 1,035 | 🐛 34 | 📅 2020-07-20
 * [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 
@@ -271,14 +271,14 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-* [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 978 | 🐛 7 | 📅 2024-01-04 - Awesome list of embedded programming resources.
-* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 834 | 🐛 1 | 📅 2026-05-27 - Helpful items for making and learning about open source hardware projects.
+* [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 980 | 🐛 7 | 📅 2024-01-04 - Awesome list of embedded programming resources.
+* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 835 | 🐛 1 | 📅 2026-05-27 - Helpful items for making and learning about open source hardware projects.
 * [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 722 | 🐛 1 | 📅 2024-12-22 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
 * [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 429 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
 * [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) ⭐ 391 | 🐛 0 | 📅 2017-05-25 - Awesome list of FPGA resources.
 * [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) ⚠️ Archived - A list of cheap electronics from China, that you can use in your projects.
 * [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 354 | 🐛 0 | 📅 2026-04-08 - A curated list of awesome open-source FPGA boards.
-* [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 325 | 🐛 0 | 📅 2026-03-10 - Open source software list specialized on power electronics.
+* [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 326 | 🐛 0 | 📅 2026-03-10 - Open source software list specialized on power electronics.
 * [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 88 | 🐛 0 | 📅 2025-06-20 - A curated list of hardware design tools with a focus on chip design.
 * [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
 * [TCAD Central](https://tcadcentral.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.

@@ -142,7 +142,7 @@
             "last_commit": "2024-08-23T17:26:32Z",
             "owner": "sparkfun",
             "repo": "SparkFun-Eagle-Libraries",
-            "stars": 1795
+            "stars": 1794
           }
         }
       ],
@@ -223,7 +223,7 @@
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 978
+            "stars": 980
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-05-27T12:17:02Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 834
+            "stars": 835
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-03-10T09:04:56Z",
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 325
+            "stars": 326
           }
         }
       ],
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:27:15.326Z",
+    "last_updated": "2026-06-08T06:46:55.361Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
