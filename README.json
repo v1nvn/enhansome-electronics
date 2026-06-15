@@ -92,7 +92,7 @@
             "last_commit": "2026-05-24T05:11:59Z",
             "owner": "openscopeproject",
             "repo": "InteractiveHtmlBom",
-            "stars": 4424
+            "stars": 4427
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-06-12T14:22:40Z",
             "owner": "INTI-CMNB",
             "repo": "KiBot",
-            "stars": 721
+            "stars": 722
           }
         }
       ],
@@ -210,7 +210,7 @@
             "last_commit": "2025-07-26T08:29:58Z",
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 430
+            "stars": 431
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-03-10T09:04:56Z",
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 330
+            "stars": 332
           }
         }
       ],
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-14T06:44:15.060Z",
+    "last_updated": "2026-06-15T07:24:14.769Z",
     "original_repository": "kitspace/awesome-electronics",
     "source_repository": "v1nvn/enhansome-electronics",
     "source_repository_description": null,
